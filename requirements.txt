@@ -1,0 +1,7 @@
+numpy
+pandas
+requests
+beautifulsoup4
+pymongo
+flask
+flask-admin

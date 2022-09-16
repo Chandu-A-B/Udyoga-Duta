@@ -1,0 +1,4 @@
+db.createUser( { user: "bot",
+                 pwd: "chandu_is_single",
+                 roles: [{ role: "readWrite", db: "UdyogaDuta" }]})
+
